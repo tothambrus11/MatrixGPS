@@ -1,0 +1,7 @@
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\bin\Debug\GpsApp.exe.config
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\bin\Debug\GpsApp.exe
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\bin\Debug\GpsApp.pdb
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\obj\Debug\GpsApp.csprojResolveAssemblyReference.cache
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\obj\Debug\GpsApp.csproj.CoreCompileInputs.cache
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\obj\Debug\GpsApp.exe
+C:\Users\gyerekegyetem\source\repos\GpsApp\GpsApp\obj\Debug\GpsApp.pdb
